@@ -1,6 +1,6 @@
 {
   "popupDays" : {
     "userPress" : 90,
-    "userCancel" : 30,
+    "userCancel" : 30
   }
 }
